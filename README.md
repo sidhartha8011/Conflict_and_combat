@@ -6,7 +6,7 @@
 
 The main algorithm includes making a 2-D matrix , converting it into a tupple then using it as conclusive fucntion
 
-markdown
+```markdown
 In our mini-project, we built a Python function that simulates playing a
 round of game aka “combat” by generating its own random choice from these
 alternatives character warriors we provided and then determining 
@@ -27,7 +27,7 @@ For example: choice number -7 number:
 6 — character 7
 
 then making a matirix to justify all the relationshtip between these characters.
-
+```
 
 
 ### Project explores various python concepts like :
